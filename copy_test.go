@@ -1,4 +1,4 @@
-package dcopy
+package main
 
 import (
 	"testing"
