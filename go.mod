@@ -1,4 +1,4 @@
-module dcopy
+module github.com/Disdjj/go-dcopy
 
 go 1.20
 
