@@ -1,4 +1,4 @@
-package go_dcopy
+package dcopy
 
 import (
 	"testing"
